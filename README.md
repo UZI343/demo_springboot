@@ -4,6 +4,6 @@ Demo springboot blogging project
 Supports  
 Authorization  
 Authenticaion  
-Posting and editing blogs 
-Posting comments 
-Deletion of blogs only by ADMIN_USERS 
+Posting blogs  
+Posting comments  
+Deletion and editing of blogs only by ADMIN_USERS  
