@@ -1,6 +1,5 @@
-# demo_springboot
-blogging project  
-Demo springboot blogging project  
+# Lightweight blogging project springboot
+springboot blogging project  
 Supports  
 Authorization  
 Authenticaion  
